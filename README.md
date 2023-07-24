@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenrikD4P, call me Henrik og Henry
+- 👋 Hi, I’m @HenrikD4P, call me Henrik or Henry
 - 👀 I’m interested in software development; consumer financial applications, project management tools, Office add-ins and a lot more
 - 🌱 I’m currently learning a lot: DevOps, C#, Python, F#, R, quantum computing, ...
 - 💞️ I’m looking to collaborate on software development, application design and core idea, business case for application etc.
